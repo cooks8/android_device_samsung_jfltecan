@@ -1,0 +1,40 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "cooks8/android_device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "branch":  "cm-13.0"  
+  },
+  {
+    "remote":      "github",
+    "repository":  "cooks8/android_device_samsung_jfltecan",
+    "target_path": "device/samsung/jfltecan", 
+    "branch":  "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "cooks8/android_device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "branch":  "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "cooks8/android_kernel_samsung_jf",
+    "target_path": "kernel/samsung/jf",
+    "branch":  "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "cooks8/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":  "cm-13.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "cooks8/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":  "cm-13.0"
+  }
+
+
+]
